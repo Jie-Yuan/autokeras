@@ -11,7 +11,7 @@ setup(
     tests_require=[
         'pytest==4.5.0',
         'pytest-pep8',
-        'pytest-xdist',
+        'pytest-xdsist',
         'pytest-cov',
     ],
     version='1.0.0',
